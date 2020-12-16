@@ -12,6 +12,6 @@ Alguns aprendizados adquiridos foram: estrutura de layout, técnicas de CSS3 com
 
 #### Aplicação:
 
-![tela-netflix1](D:\workspace\projetos-web\tela-netflix\tela-netflix1.jpg)
+![tela-netflix1](tela-netflix1.jpg)
 
-![tela-netflix2](D:\workspace\projetos-web\tela-netflix\tela-netflix2.jpg)
+![tela-netflix2](tela-netflix2.jpg)
